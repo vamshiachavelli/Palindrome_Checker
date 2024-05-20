@@ -11,7 +11,10 @@ Welcome to Day 4 of my 100-day journey of creating something new every day! Toda
 ## Preview
 
 ![Screen Shot 2024-05-19 at 8 41 35 PM](https://github.com/vamshiachavelli/Palindrome_Checker/assets/58171768/ed42539d-4835-4f65-aed7-6d7665429a4f)
+
+
 ![Screen Shot 2024-05-19 at 8 42 13 PM](https://github.com/vamshiachavelli/Palindrome_Checker/assets/58171768/e62eeec0-ad7d-4ae1-b2c5-3005b2d05f4a)
+
 ![Screen Shot 2024-05-19 at 8 41 56 PM](https://github.com/vamshiachavelli/Palindrome_Checker/assets/58171768/b428c14c-273b-44f9-a497-29113eab04c7)
 
 
